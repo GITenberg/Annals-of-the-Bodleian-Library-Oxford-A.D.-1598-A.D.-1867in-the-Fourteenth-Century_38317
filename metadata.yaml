@@ -1,0 +1,28 @@
+_repo: Annals-of-the-Bodleian-Library-Oxford-A.D.-1598-A.D.-1867in-the-Fourteenth-Century_38317
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macray, William Dunn
+    alias: Macray, W. Dunn (William Dunn)
+    birthdate: 1826
+    deathdate: 1916
+    gutenberg_agent_id: '39391'
+    url: http://www.gutenberg.org/2009/agents/39391
+description: ''
+gutenberg_issued: '2011-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Bodleian Library'
+title: "Annals of the Bodleian Library, Oxford, A.D. 1598-A.D. 1867\r\nWith a Preliminary\
+  \ Notice of the earlier Library founded in the Fourteenth Century"
+url: http://www.gutenberg.org/ebooks/38317
