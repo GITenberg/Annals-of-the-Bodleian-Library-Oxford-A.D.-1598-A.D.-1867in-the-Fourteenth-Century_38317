@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39391'
     url: http://www.gutenberg.org/2009/agents/39391
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38317#Annals-of-the-Bodleian-Library-Oxford-A.D.-1598-A.D.-1867in-the-Fourteenth-Century
 gutenberg_issued: '2011-12-16'
 gutenberg_type: Text
 identifiers:
